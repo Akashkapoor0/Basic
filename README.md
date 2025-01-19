@@ -6,9 +6,6 @@ Welcome to my repository where I showcase my basic coding projects in various pr
 
 - **C Language**
 
-## Directory Structure
-
-
 ## Future Plans
 
 In the future, I plan to upload projects in the following languages:
@@ -19,3 +16,5 @@ In the future, I plan to upload projects in the following languages:
 - **C++**
 - **Ruby**
 - **HTML/CSS** (for web development)
+
+- Thanks for checking out my coding journey! 😊
