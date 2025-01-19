@@ -17,4 +17,4 @@ In the future, I plan to upload projects in the following languages:
 - **Ruby**
 - **HTML/CSS** (for web development)
 
-- Thanks for checking out my coding journey! 😊
+Thanks for checking out my coding journey! 😊
