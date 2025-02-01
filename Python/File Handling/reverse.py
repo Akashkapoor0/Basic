@@ -1,0 +1,6 @@
+f = open(r"C:\Users\anujm\Desktop\example.txt","r")
+c = f.read()
+print(c)
+f = open(r"C:\Users\anujm\Desktop\example.txt","w")
+d = f.write(c[::-1])
+f.close()

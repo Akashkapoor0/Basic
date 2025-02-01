@@ -1,0 +1,5 @@
+f = open(r"C:\Users\anujm\Desktop\example.txt","r")
+c = f.read()
+words = c.split()
+t = len(words)
+print("Total number of words:", t)
